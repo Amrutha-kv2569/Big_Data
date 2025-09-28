@@ -1,6 +1,0 @@
-streamlit
-requests
-textblob
-pandas
-vaderSentiment
-
