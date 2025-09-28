@@ -1,5 +1,4 @@
-# Install dependencies (run once)
-!pip install pyspark requests nltk altair vega_datasets
+pip install pyspark requests nltk altair vega_datasets
 
 import requests
 import pandas as pd
