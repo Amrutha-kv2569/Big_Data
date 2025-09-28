@@ -1,4 +1,4 @@
-!pip install pyspark
+pip install pyspark
 import requests
 
 API_KEY = "65af9d35def2491cbf609f0916e0dabf"
