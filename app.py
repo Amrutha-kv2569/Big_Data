@@ -3,6 +3,8 @@ import pandas as pd
 import requests
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import time
+pip install vaderSentiment
+
 
 st.title("Real-Time News Sentiment Dashboard")
 
