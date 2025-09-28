@@ -40,7 +40,6 @@ while True:
 
         styled_df = df[['title', 'sentiment']].style.applymap(color_sentiment, subset=['sentiment'])
 
-        # Update news table
         news_container.subheader("Latest News with Sentiment")
         news_container.dataframe(styled_df)
 
